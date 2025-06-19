@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## Stats
+![Kodokthegr3at's Stats](https://github-readme-stats.vercel.app/api?username=Kodokthegr3at&theme=outrun&show_icons=true&hide_border=true&count_private=true)
 <!--
 **Kodokthegr3at/Kodokthegr3at** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
