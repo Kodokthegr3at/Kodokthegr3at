@@ -1,16 +1,12 @@
 <div align="center">
 
-```
-██╗  ██╗ ██████╗ ██████╗  ██████╗ ██╗  ██╗
-██║ ██╔╝██╔═══██╗██╔══██╗██╔═══██╗██║ ██╔╝
-█████╔╝ ██║   ██║██║  ██║██║   ██║█████╔╝
-██╔═██╗ ██║   ██║██║  ██║██║   ██║██╔═██╗
-██║  ██╗╚██████╔╝██████╔╝╚██████╔╝██║  ██╗
-╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
-    t h e G r 3 a t
-```
+[![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=1&pause=99999&color=00FF41&center=true&vCenter=true&width=500&height=70&lines=KODOKTHEGR3AT)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Offensive+Security+%7C+Hacking+the+learning+curve;Based+in+Japan+%F0%9F%87%AF%F0%9F%87%B5+%7C+Building+in+public)](https://git.io/typing-svg)
+<sub>**`t h e G r 3 a t`**</sub>
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Offensive+Security+%7C+Hacking+the+learning+curve;Based+in+Japan+%F0%9F%87%AF%F0%9F%87%B5+%7C+Building+in+public)](https://git.io/typing-svg)
 
 <br>
 
