@@ -2,7 +2,7 @@
 
 [![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=1&pause=99999&color=00FF41&center=true&vCenter=true&width=500&height=70&lines=KODOKTHEGR3AT)](https://git.io/typing-svg)
 
-[![Sub](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=99999&color=888888&center=true&vCenter=true&width=500&height=30&lines=t+h+e+G+r+3+a+t)](https://git.io/typing-svg)
+[![Sub](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=99999&color=888888&center=true&vCenter=true&width=500&height=30&lines=K+0+d+0+k)](https://git.io/typing-svg)
 
 <br>
 
