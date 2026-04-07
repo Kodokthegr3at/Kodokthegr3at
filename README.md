@@ -1,149 +1,80 @@
 <div align="center">
 
-[![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=1&pause=99999&color=00FF41&center=true&vCenter=true&width=500&height=70&lines=Kodokthegr3at)](https://git.io/typing-svg)
+# Jesaya Marbun
 
-[![Sub](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=99999&color=888888&center=true&vCenter=true&width=500&height=30&lines=Jesaya+Marbun)](https://git.io/typing-svg)
+**Aspiring Software Engineer & Security Enthusiast**
 
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Still+learning%2C+still+growing+%F0%9F%8C%B1;Based+in+Japan+%F0%9F%87%AF%F0%9F%87%B5+%7C+Building+in+public)](https://git.io/typing-svg)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kodokthegr3at&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Kodokthegr3at?color=00ff41&style=flat-square&label=FOLLOWERS)](https://github.com/Kodokthegr3at)
+![Based in Japan](https://img.shields.io/badge/Based_in-Japan_🇯🇵-blue?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Status-Open_to_Opportunities-3fb950?style=flat-square)
 
 </div>
 
 ---
 
-## `$ whoami`
+## About Me
 
-```yaml
-name       : Kodokthegr3at
-role       : Aspiring Software Engineer & Cybersecurity Enthusiast
-location   : Japan 🇯🇵
-focus      : Offensive Security · System Analysis · Full-Stack Dev
-status     : Learning, Building, Breaking things (ethically) 🔐
-motto      : "Keep learning. Keep hacking. Keep building."
-```
+I'm an aspiring software engineer with a growing interest in cybersecurity and system-level programming. I focus on building practical projects that help me develop real engineering skills — not just theoretical knowledge.
 
----
+Currently based in Japan, I enjoy working at the intersection of software development and security, and I'm always looking to improve through hands-on learning.
 
-## `$ cat about_me.txt`
-
-- 🔭 Currently deep-diving into **Cybersecurity & Linux internals**
-- 🧠 Focused on **Offensive Security, Network Analysis & CTF challenges**
-- ⚙️ Building hands-on projects to sharpen real-world engineering skills
-- 🌱 Always exploring new technologies, tools, and rabbit holes
-- 🌏 Bridging technology across cultures from Japan to the world
+- **Focus**: Software Engineering · Cybersecurity · System Analysis
+- **Currently studying**: Linux internals, networking fundamentals, and web security
+- **Building**: Practical projects to strengthen real-world engineering skills
+- **Goal**: Contribute meaningfully to teams that value learning and code quality
+- **Languages**: Indonesian (Native) · Japanese (Learning) · English (Proficient)
 
 ---
 
-## `$ ls -la /skills`
+## Skills
+
+**Languages**
+`Java` `JavaScript` `Bash`
+
+**Tools & Platforms**
+`Linux` `Git` `MySQL` `Apache Tomcat` `VirtualBox` `VS Code`
+
+**Areas of Interest**
+`Offensive Security` `CTF Challenges` `Network Analysis` `Full-Stack Web`
+
+---
+
+## Projects
+
+### [Karuru](https://github.com/Kodokthegr3at/Karuru) — Full-Stack Fleamarket Web App
+A full-stack marketplace application built independently from scratch. Designed and implemented user management, product listings, and browsing features.
+
+> **Stack**: Java Servlets · Apache Tomcat · HTML/CSS/JavaScript · MySQL
+
+---
+
+### [KisuuhenkanProject](https://github.com/Kodokthegr3at/KisuuhenkanProject) — Number Base Converter
+A Java console application for converting between binary, octal, decimal, and hexadecimal. Includes input validation and interactive error handling.
+
+> **Stack**: Java 14+ · CLI · Algorithm Design
+
+---
+
+## Learning Progress
+
+| Status | Topic |
+|--------|-------|
+| ✅ | Linux fundamentals & system internals |
+| ✅ | Bash scripting, file permissions, regex |
+| ✅ | Full-stack web development (Java + MySQL) |
+| 🔄 | Networking basics & protocols |
+| 🔄 | Web security & CTF challenges |
+| ⬜ | Binary exploitation & reverse engineering |
+| ⬜ | Network penetration testing (OSCP path) |
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Stats](https://github-readme-stats.vercel.app/api?username=Kodokthegr3at&theme=dark&show_icons=true&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
 
-### 🧰 Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-
-### 🛠️ Dev Environment
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-
-</div>
-
----
-
-## `$ cat projects/`
-
-### 🛒 Karuru — Fleamarket Web App
-> Full-stack marketplace built from scratch
-
-```
-├── Backend     → Java (Servlets + Apache Tomcat)
-├── Frontend    → HTML / CSS / JavaScript
-├── Database    → MySQL
-└── Features    → Product listing, browsing, user management
-```
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Kodokthegr3at/Karuru)
-
----
-
-### 🔢 KisuuhenkanProject — Number Base Converter
-> Java console app for binary, octal, decimal & hex conversion
-
-```
-├── Language    → Java 14+ (Core)
-├── Input       → BufferedReader (single-instance)
-├── Logic       → Decimal as conversion pivot
-└── Features    → Interactive CLI, validation, error handling
-```
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Kodokthegr3at/KisuuhenkanProject)
-
----
-
-## `$ cat learning_log.md`
-
-```
-[✓] Linux fundamentals & system internals
-[✓] Bash scripting & command-line tools
-[✓] File permissions, redirections, regex
-[~] Networking basics & protocols       ← in progress
-[~] Web security & CTF challenges       ← in progress
-[ ] Binary exploitation & reverse eng   ← next
-[ ] Network penetration testing         ← next
-```
-
----
-
-## `$ ./github_stats.sh`
-
-<div align="center">
-
-![Kodokthegr3at's Stats](https://github-readme-stats.vercel.app/api?username=Kodokthegr3at&theme=dark&show_icons=true&hide_border=true&count_private=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kodokthegr3at&theme=dark&layout=compact&hide_border=true&title_color=00ff41&text_color=c9d1d9&bg_color=0d1117)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kodokthegr3at&theme=dark&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&background=0D1117)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## `$ cat goals.txt`
-
-```bash
-$ sudo apt-get install professional-software-engineer    # ← installing...
-$ sudo apt-get install cybersecurity-mastery             # ← installing...
-$ sudo apt-get install global-impact                     # ← installing...
-
-[##########--------------------] 35% complete
-```
-
-- [ ] 🏆 Become a professional Software Engineer
-- [ ] 🔥 Master Cybersecurity — Red Team / Offensive side
-- [ ] 🌍 Work globally and bridge technology across countries
-- [ ] 📜 Earn industry certifications (OSCP, CEH, CompTIA+)
-
----
-
-## `$ ping contact`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Kodokthegr3at-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kodokthegr3at)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kodokthegr3at&theme=dark&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
 
 </div>
 
@@ -151,12 +82,9 @@ $ sudo apt-get install global-impact                     # ← installing...
 
 <div align="center">
 
-```
-> "Keep learning. Keep hacking. Keep building."  _
-                                                 |_|
-                      [ KODOKTHEGR3AT ]
-```
+*"I believe consistency and curiosity matter more than talent.*  
+*Still learning. Still improving. One commit at a time."*
 
-![snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+[![GitHub](https://img.shields.io/badge/GitHub-Kodokthegr3at-181717?style=flat-square&logo=github)](https://github.com/Kodokthegr3at)
 
 </div>
