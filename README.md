@@ -76,19 +76,6 @@ A Java console application for converting between binary, octal, decimal, and he
 
 ---
 
-## Learning Progress / 学習状況
-
-- Linux fundamentals & system internals
-- Bash scripting, file permissions, regular expressions
-- Full-stack web development (Java + MySQL)
-- Networking fundamentals & protocols (in progress)
-- Web application security & penetration testing basics — HTB Academy (in progress)
-- JavaScript deobfuscation & client-side security analysis (in progress)
-- Binary exploitation & reverse engineering (planned)
-- Network penetration testing — OSCP track (planned)
-
----
-
 ## Closing / おわりに
 
 > "Consistency and curiosity matter more than talent. Still learning. Still improving. One commit at a time."
