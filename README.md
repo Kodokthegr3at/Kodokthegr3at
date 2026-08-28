@@ -34,11 +34,11 @@ I'm currently looking for a position as an **infrastructure/operations engineer 
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=linux,git,tomcat,vscode,vim" />
+<img src="https://skillicons.dev/icons?i=linux,git,vscode,vim" />
 
 **Areas of Interest**
 
-<img src="https://skillicons.dev/icons?i=kali,wireshark" />
+<img src="https://skillicons.dev/icons?i=kali" />
 
 ---
 
@@ -49,7 +49,7 @@ A full-stack marketplace application built independently from scratch, with user
 
 ゼロから個人開発したフルスタックのフリマアプリです。ユーザー管理、商品出品・閲覧機能を実装しました。
 
-<img src="https://skillicons.dev/icons?i=java,tomcat,html,css,js,mysql" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql" />
 
 > **Stack:** Java Servlets · Apache Tomcat · HTML/CSS/JavaScript · MySQL
 
@@ -61,19 +61,6 @@ A Java console application for converting between binary, octal, decimal, and he
 <img src="https://skillicons.dev/icons?i=java" />
 
 > **Stack:** Java 14+ · CLI · Algorithm Design
-
----
-
-## Learning Progress / 学習状況
-
-- Linux fundamentals & system internals
-- Bash scripting, file permissions, regular expressions
-- Full-stack web development (Java + MySQL)
-- Networking fundamentals & protocols (in progress)
-- Web application security & penetration testing basics — HTB Academy (in progress)
-- JavaScript deobfuscation & client-side security analysis (in progress)
-- Binary exploitation & reverse engineering (planned)
-- Network penetration testing — OSCP track (planned)
 
 ---
 
