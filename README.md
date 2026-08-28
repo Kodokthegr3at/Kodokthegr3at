@@ -2,96 +2,98 @@
 
 # Jesaya Marbun / kodokthegr3at
 
-**Aspiring Software Engineer & Security Enthusiast**  
-ソフトウェアエンジニア志望 · セキュリティ愛好家
+**Aiming for Offensive Security Engineer — starting in Infrastructure Ops (運用保守)**
 
-![Based in Japan](https://img.shields.io/badge/Based_in-Japan_🇯🇵-blue?style=flat-square&color=0969da)
-![Open to Work](https://img.shields.io/badge/Status-Open_to_Opportunities-2da44e?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Full--Stack_+_Security-6e40c9?style=flat-square)
+![Based in Japan](https://img.shields.io/badge/Based_in-Japan-blue?style=flat-square&color=0969da)
+![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-2da44e?style=flat-square)
 
 </div>
 
 ---
 
-## About me / 自己紹介
+## About Me / 自己紹介
 
-I'm an aspiring software engineer with a growing interest in cybersecurity and system-level programming.  
-I focus on building practical projects that help me develop real engineering skills — not just theoretical knowledge.
+I'm currently looking for a position as an **infrastructure/operations engineer (運用保守)** to build a solid technical foundation in real-world systems and production environments. My long-term goal is to transition into **offensive security**, using operational experience as the base for understanding how systems actually behave, fail, and get attacked.
 
-Currently based in Japan, I enjoy working at the intersection of software development and security.
-
-ソフトウェアエンジニアを目指しており、サイバーセキュリティやシステムレベルのプログラミングにも強い関心を持っています。理論だけでなく、実践的なスキルを身につけるためにプロジェクトを積み上げています。
+まずは運用保守エンジニアとして実務経験を積み、本番環境やシステム運用の理解を深めていきたいと考えています。将来的にはその経験を土台として、オフェンシブセキュリティの分野へキャリアを広げていくことが目標です。
 
 | | EN | 日本語 |
 |---|---|---|
-| **Focus** | Software Engineering · Cybersecurity | ソフトウェア開発 · サイバーセキュリティ |
-| **Currently** | Studying Linux, networking, web security | Linux・ネットワーク・Webセキュリティを学習中 |
-| **Building** | Practical projects to grow engineering skills | 実践的なプロジェクトでスキルを磨いています |
-| **Goal** | Contribute to teams that value learning & quality | 学習と品質を大切にするチームに貢献したい |
-| **Languages** | Indonesian · Japanese (learning) · English | インドネシア語・日本語（学習中）・英語 |
+| **Immediate Goal** | Infrastructure/Operations Engineer role | 運用保守エンジニアとしての就業 |
+| **Long-Term Goal** | Offensive Security Engineer | オフェンシブセキュリティエンジニア |
+| **Currently Learning** | Networking, Linux, Web Application Security | ネットワーク・Linux・Webアプリケーションセキュリティ |
+| **Languages** | Indonesian (native), Japanese (learning), English | インドネシア語（母語）・日本語（学習中）・英語 |
 
 ---
 
-## Skills / スキル
+## Skills & Tech Stack / スキル
 
-**Languages / 言語**  
-`Java` `JavaScript` `Bash`
+**Languages**
 
-**Tools & Platforms / ツール**  
-`Linux` `Git` `MySQL` `Apache Tomcat` `VirtualBox` `VS Code`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Areas of Interest / 興味分野**  
-`Offensive Security` `CTF Challenges` `Network Analysis` `Full-Stack Web`
+**Tools & Platforms**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**Areas of Interest**
+
+![Offensive Security](https://img.shields.io/badge/Offensive_Security-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![CTF](https://img.shields.io/badge/CTF_Challenges-9146FF?style=for-the-badge&logo=hackaday&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full--Stack_Web-black?style=for-the-badge&logo=html5&logoColor=E34F26)
 
 ---
 
 ## Projects / プロジェクト
 
 ### [Karuru](https://github.com/Kodokthegr3at/Karuru) — Full-Stack Fleamarket Web App
-**フリマWebアプリ（個人開発）**
+A full-stack marketplace application built independently from scratch, with user management, product listing, and browsing features.
 
-A full-stack marketplace application built independently from scratch.  
-Implemented user management, product listings, and browsing features.
+ゼロから個人開発したフルスタックのフリマアプリです。ユーザー管理、商品出品・閲覧機能を実装しました。
 
-ゼロから自分で開発したフルスタックのフリマアプリです。  
-ユーザー管理、商品出品・閲覧機能を実装しました。
-
-> **Stack**: Java Servlets · Apache Tomcat · HTML/CSS/JavaScript · MySQL
-
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### [KisuuhenkanProject](https://github.com/Kodokthegr3at/KisuuhenkanProject) — Number Base Converter
-**進数変換CLIツール（Java）**
+A Java console application for converting between binary, octal, decimal, and hexadecimal, with input validation and error handling.
 
-A Java console application for converting between binary, octal, decimal, and hexadecimal.  
-Includes input validation and interactive error handling.
+2進数・8進数・10進数・16進数を相互変換するJavaのCLIアプリです。
 
-2進数・8進数・10進数・16進数を相互変換するJavaのCLIアプリです。  
-入力バリデーションとエラーハンドリングを実装しています。
-
-> **Stack**: Java 14+ · CLI · Algorithm Design
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ---
 
 ## Learning Progress / 学習状況
 
-- ✅ Linux fundamentals & system internals — Linuxの基礎とシステム内部構造
-- ✅ Bash scripting, file permissions, regex — Bashスクリプト・パーミッション・正規表現
-- ✅ Full-stack web development (Java + MySQL) — フルスタックWeb開発
-- 🔄 Networking basics & protocols *(in progress / 学習中)*
-- 🔄 Web security & CTF challenges *(in progress / 学習中)*
-- ⬜ Binary exploitation & reverse engineering — バイナリ解析とリバースエンジニアリング
-- ⬜ Network penetration testing (OSCP path) — ネットワーク侵入テスト（OSCP取得を目指して）
+- Linux fundamentals & system internals
+- Bash scripting, file permissions, regular expressions
+- Full-stack web development (Java + MySQL)
+- Networking fundamentals & protocols (in progress)
+- Web application security & penetration testing basics — HTB Academy (in progress)
+- JavaScript deobfuscation & client-side security analysis (in progress)
+- Binary exploitation & reverse engineering (planned)
+- Network penetration testing — OSCP track (planned)
 
 ---
 
 ## Closing / おわりに
 
-> *"I believe consistency and curiosity matter more than talent.  
-> Still learning. Still improving. One commit at a time."*
+> "Consistency and curiosity matter more than talent. Still learning. Still improving. One commit at a time."
 >
-> 「才能よりも継続と好奇心が大切だと信じています。  
-> まだまだ学び続けています。一歩一歩、着実に成長していきます。」
+> 「才能よりも継続と好奇心が大切だと信じています。まだまだ学び続けています。一歩一歩、着実に。」
 
 ---
 
