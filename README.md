@@ -1,4 +1,4 @@
-<div align="center" >
+<div align="center">
 # Jesaya Marbun
 ## マーブ　ジェサヤ
 </div>
