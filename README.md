@@ -1,4 +1,7 @@
-# Jesaya Marbun(マーブ)
+<div align="center" >
+# Jesaya Marbun
+## マーブ　ジェサヤ
+</div>
 
 Operations Engineer (運用保守) starting 2027, based in Japan. Ops is the day job — red team / security analyst is where I actually want to end up, using it as the base for understanding how systems get attacked.
 
