@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Jesaya Marbun</h1> <br>
+<h1>Jesaya Marbun</h1>
 <h3> マーブ　ジェサヤ </h3>
 </div>
 
