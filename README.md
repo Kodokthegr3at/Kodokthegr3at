@@ -3,12 +3,12 @@
 <h3>マーブ・ジェサヤ</h3>
 </div>
 
-Operations Engineer (運用保守) starting 2027, based in Japan. Ops is the day job — red team / security analyst is where I actually want to end up, using it as the base for understanding how systems get attacked.
+Operations Engineer (運用保守), Japan, starting 2027 — the day job. Long-term I'm aiming at red team / security analyst work; ops is how I learn what actually breaks first.
 
 来年から日本で運用保守。将来的にはレッドチーム、セキュリティアナリストを目指す。
 
-Stack: Java, JavaScript, TypeScript, Bash, MySQL, Linux
-Learning: networking, web application security, Kali Linux
+`Java` `JavaScript` `TypeScript` `Bash` `MySQL` `Linux`
+Learning: networking, web app security, Kali Linux
 
 ## Projects
 
