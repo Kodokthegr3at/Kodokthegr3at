@@ -49,7 +49,7 @@ job-hunting portfolio project we were required to build in our first year.
 1年目に就活作品として制作しました。
 Java Servlets, Tomcat, MySQL
 
-**[LearnCybersecurity](https://github.com/Kodokthegr3at/LearnCybersecurity)**
+**[Zero2Root](https://github.com/Kodokthegr3at/Zero2Root)**
 My security study notes, 71 lessons I go back to regularly for review.
 I made them public in case they're useful to anyone with the same
 interest. Available in Indonesian, English, and Japanese (translated with AI).
