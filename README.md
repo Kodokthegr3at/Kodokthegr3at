@@ -1,21 +1,42 @@
-<div align="center">
-<h1>Jesaya Marbun</h1>
-<h3>マーブ・ジェサヤ</h3>
-</div>
+# Jesaya Marbun / マーブ・ジェサヤ
 
-Operations Engineer (運用保守), Japan, starting 2027 — the day job. Long-term I'm aiming at red team / security analyst work; ops is how I learn what actually breaks first.
+I'll be starting as an operations engineer (運用保守) in Japan in 2027.
+That's the day job. What I actually want to do long-term is red team and
+security analysis work, and I figure keeping systems running is the best
+way to learn how they fall over.
 
-来年から日本で運用保守。将来的にはレッドチーム、セキュリティアナリストを目指す。
+Outside of screens, I lift. Most days the gym is where I clear my head
+after getting stuck on a problem.
 
-`Java` `JavaScript` `TypeScript` `Bash` `MySQL` `Linux`
-Learning: networking, web app security, Kali Linux
+2027年から日本で運用保守の仕事を始めます。
+いずれはレッドチームやセキュリティアナリストの仕事がしたいと思っています。
+趣味はCTFと筋トレです。
 
-## Projects
+## What I use
 
-- [Bali Bong](https://github.com/Kodokthegr3at/BaliBong) — full-stack site for a real restaurant, running in production. Angular, Node.js, Postgres, deployed on Vercel.
-- [Karuru](https://github.com/Kodokthegr3at/Karuru) — full-stack flea market web app. Java Servlets, Tomcat, MySQL.
-- [LearnCybersecurity](https://github.com/Kodokthegr3at/LearnCybersecurity) — a 71-lesson curriculum I wrote for myself, not one I took. Trilingual (ID/EN/JP).
+Java, JavaScript, TypeScript, Bash, MySQL, Linux.
 
----
+In my free time I study security and play CTFs. Lately that's mostly
+networking, web app security, and getting comfortable in Kali. CTFs are
+where I find out what I don't actually understand yet.
 
-Open to collaboration — feel free to reach out.
+## Things I've built
+
+**[Bali Bong](https://github.com/Kodokthegr3at/BaliBong)**
+A website for a real restaurant. It's live and people actually use it,
+which taught me more than any tutorial did.
+Angular, Node.js, Postgres, hosted on Vercel.
+
+**[Karuru](https://github.com/Kodokthegr3at/Karuru)**
+A flea market web app. Old-school stack on purpose: Java Servlets,
+Tomcat, MySQL.
+
+**[LearnCybersecurity](https://github.com/Kodokthegr3at/LearnCybersecurity)**
+71 lessons I wrote to teach myself security, in Indonesian, English,
+and Japanese. Writing it in three languages forced me to actually
+understand each topic instead of just copying notes.
+
+## Contact
+
+If you want to work on something together or just talk security,
+reach me at [jesayamarbun1008@gmail.com](mailto:jesayamarbun1008@gmail.com).
